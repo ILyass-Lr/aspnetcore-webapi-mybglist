@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="OpenApi\**" />
+    <Content Remove="OpenApi\**" />
+    <EmbeddedResource Remove="OpenApi\**" />
+    <None Remove="OpenApi\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\ErrorController.cs" />
+    <Compile Remove="Controllers\ProblemsDemoController.cs" />
+    <Compile Remove="Controllers\WeatherForecastController.cs" />
+    <Compile Remove="WeatherForecast.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Scalar.AspNetCore" Version="2.17.2" />
+  </ItemGroup>
+
+</Project>

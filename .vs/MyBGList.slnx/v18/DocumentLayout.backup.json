@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\controllers\\boardgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\controllers\\boardgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\controllers\\problemsdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\controllers\\problemsdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\openapi\\problemsdemodescriptiontransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\openapi\\problemsdemodescriptiontransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\mybglist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\mybglist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|c:\\users\\lenovo\\desktop\\learning\\asp.net core\\mybglist\\mybglist\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F611D5AF-6BAF-707A-C2AC-D074983FE13B}|MyBGList\\MyBGList.csproj|solutionrelative:mybglist\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Program.cs",
+              "RelativeDocumentMoniker": "MyBGList\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Program.cs",
+              "RelativeToolTip": "MyBGList\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T15:17:14.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyBGList\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\appsettings.Development.json",
+              "RelativeToolTip": "MyBGList\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-28T17:25:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoardGame.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\BoardGame.cs",
+              "RelativeDocumentMoniker": "MyBGList\\BoardGame.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\BoardGame.cs",
+              "RelativeToolTip": "MyBGList\\BoardGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:55:34.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoardGamesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\BoardGamesController.cs",
+              "RelativeDocumentMoniker": "MyBGList\\Controllers\\BoardGamesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\BoardGamesController.cs",
+              "RelativeToolTip": "MyBGList\\Controllers\\BoardGamesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:59:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyBGList\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyBGList\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T21:10:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBGList\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\appsettings.json",
+              "RelativeToolTip": "MyBGList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-28T12:23:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "MyBGList\\appsettings.Staging.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\appsettings.Staging.json",
+              "RelativeToolTip": "MyBGList\\appsettings.Staging.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T21:26:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyBGList\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyBGList\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T19:38:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyBGList.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\MyBGList.csproj",
+              "RelativeDocumentMoniker": "MyBGList\\MyBGList.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\MyBGList.csproj",
+              "RelativeToolTip": "MyBGList\\MyBGList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-28T21:12:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProblemsDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\ProblemsDemoController.cs",
+              "RelativeDocumentMoniker": "MyBGList\\Controllers\\ProblemsDemoController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\ProblemsDemoController.cs",
+              "RelativeToolTip": "MyBGList\\Controllers\\ProblemsDemoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T21:10:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProblemsDemoDescriptionTransformer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\OpenApi\\ProblemsDemoDescriptionTransformer.cs",
+              "RelativeDocumentMoniker": "MyBGList\\OpenApi\\ProblemsDemoDescriptionTransformer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\OpenApi\\ProblemsDemoDescriptionTransformer.cs",
+              "RelativeToolTip": "MyBGList\\OpenApi\\ProblemsDemoDescriptionTransformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T21:13:16.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "MyBGList\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Learning\\ASP.NET Core\\MyBGList\\MyBGList\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "MyBGList\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T15:44:19.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
